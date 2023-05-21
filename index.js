@@ -16,4 +16,4 @@ if(randomnumber1>randomnumber2){
 else if(randomnumber2>randomnumber1){
     document.querySelector("h1").innerHTML="Player 2 wins";
 }
-else document.querySelector("h1").innerHTML="ohh...drow";
+else document.querySelector("h1").innerHTML="ohh...draw";
